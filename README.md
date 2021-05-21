@@ -1,4 +1,4 @@
-# Sample : Get Operations with C#'s LINQ
+# Sample : Get Operations with C# LINQ
 
 ## Output Sample
 
